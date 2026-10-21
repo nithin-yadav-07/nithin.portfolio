@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <path d="M16 2 L29 7 L29 17.5 C29 24.5 23 29.5 16 32 C9 29.5 3 24.5 3 17.5 L3 7 Z"
+        fill="#1e3a8a" stroke="#3b82f6" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="16" y="23" font-family="Arial Black, sans-serif" font-size="15" font-weight="900"
+        fill="white" text-anchor="middle">N</text>
+</svg>

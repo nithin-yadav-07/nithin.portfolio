@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Shield body -->
+  <path d="M50 6 L88 20 L88 52 C88 72 70 88 50 96 C30 88 12 72 12 52 L12 20 Z"
+        fill="#1e3a8a" stroke="#3b82f6" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Inner shield highlight -->
+  <path d="M50 14 L81 26 L81 52 C81 68 66 81 50 88 C34 81 19 68 19 52 L19 26 Z"
+        fill="#1e40af" opacity="0.6"/>
+  <!-- Letter N -->
+  <text x="50" y="67" font-family="Arial Black, sans-serif" font-size="40" font-weight="900"
+        fill="white" text-anchor="middle" letter-spacing="-1">N</text>
+</svg>
